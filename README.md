@@ -3,6 +3,11 @@
 An interactive Streamlit application that visualizes and analyzes 120 years of Olympic Games history (1896–2016).
 Gain insights into trends, medal tallies, country-wise performance, and athlete statistics through an easy-to-use dashboard.
 
+🚀Live Demo
+
+Check out the live app here:
+https://olympics-data-analysis-btfdlpsublpwpdyo7ntbj9.streamlit.app/
+
 🚀 Features
 
     Medal Tally Dashboard – Filter medals by year and country.
